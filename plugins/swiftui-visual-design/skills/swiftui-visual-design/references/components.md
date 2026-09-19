@@ -1,4 +1,4 @@
-# Research starting points
+# Component and design sources
 
 Use these sources to begin visual and component research when the user has not supplied their own references. Recheck live contents, availability, licenses, and compatibility before recommending adoption. The labels below are research angles, not current capability guarantees.
 

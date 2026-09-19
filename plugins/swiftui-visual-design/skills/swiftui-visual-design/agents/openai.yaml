@@ -1,0 +1,4 @@
+interface:
+  display_name: "SwiftUI visual design"
+  short_description: "Plan polished SwiftUI interfaces with reusable components"
+  default_prompt: "Use $swiftui-visual-design to assess my existing UI or plan one if none exists, compare design and motion references with reusable SwiftUI components, and prepare a prioritized design brief."

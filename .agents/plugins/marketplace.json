@@ -1,0 +1,20 @@
+{
+  "name": "swiftui-visual-design",
+  "interface": {
+    "displayName": "Swiftui Visual Design"
+  },
+  "plugins": [
+    {
+      "name": "swiftui-visual-design",
+      "source": {
+        "source": "local",
+        "path": "./plugins/swiftui-visual-design"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

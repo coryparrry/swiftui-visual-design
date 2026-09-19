@@ -1,0 +1,25 @@
+{
+  "name": "swiftui-visual-design",
+  "version": "0.2.0",
+  "description": "Bring SwiftUI components, motion examples, and design references together to plan new interfaces and improve existing apps.",
+  "author": {
+    "name": "coryparrry"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "SwiftUI Visual Design",
+    "shortDescription": "SwiftUI components and design references in one workflow.",
+    "longDescription": "Bring SwiftUI components, motion examples, and design references together to plan new interfaces and improve existing apps.",
+    "developerName": "coryparrry",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me design my SwiftUI app using relevant components, motion examples, and visual references."
+  },
+  "repository": "https://github.com/coryparrry/swiftui-visual-design",
+  "keywords": [
+    "swiftui",
+    "design",
+    "components",
+    "animation"
+  ]
+}

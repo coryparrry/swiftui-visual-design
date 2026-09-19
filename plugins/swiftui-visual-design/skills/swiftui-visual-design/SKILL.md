@@ -1,9 +1,9 @@
 ---
-name: swiftui-visual-design-research
+name: swiftui-visual-design
 description: Research visual direction for SwiftUI apps by assessing existing screens or planning an initial UI, gathering design and motion references, evaluating reusable component libraries, and producing a prioritized design brief. Use for an app redesign or when no UI has been built yet.
 ---
 
-# SwiftUI visual design research
+# SwiftUI visual design
 
 Turn visual dissatisfaction or a new app brief into an evidence-backed design direction and a practical component shortlist. Actively consider existing SwiftUI libraries and source components; do not default to a wholly custom, generic interface or equate visual polish with adding effects everywhere.
 
@@ -31,7 +31,7 @@ Continue through the shared research and shortlist steps below. Deliver an initi
 
 ## Gather references deliberately
 
-Start with the user's supplied links. For optional research starting points, read [references/research-seeds.md](references/research-seeds.md). These are starting points, not preapproved dependencies or a mandatory shopping list.
+Start with the user's supplied links. For optional research starting points, read [references/components.md](references/components.md). These are starting points, not preapproved dependencies or a mandatory shopping list.
 
 Search both visual inspiration and reusable SwiftUI implementations. Search GitHub repositories for `SwiftUI components`, optionally sort by stars, and open promising candidates to compare their demos and source. Use popularity for discovery, then judge fit from the actual project and source; star count alone is not evidence of quality.
 
