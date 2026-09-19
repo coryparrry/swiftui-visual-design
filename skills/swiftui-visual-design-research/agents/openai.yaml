@@ -1,0 +1,4 @@
+interface:
+  display_name: "SwiftUI visual design research"
+  short_description: "Research polished SwiftUI designs and reusable components"
+  default_prompt: "Use $swiftui-visual-design-research to assess my existing UI or plan one if none exists, compare design and motion references with reusable SwiftUI components, and prepare a prioritized design brief."
